@@ -1,0 +1,18 @@
+.bannerStyle {
+    box-sizing: border-box;
+    /* height: 100vh; */
+    /* height: calc(100vh - 10px); */
+    height: calc(100vh);
+    /* margin-top: -56px;
+    padding-top: -56px; */
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.6),
+        rgba(0, 0, 0, 0.6)
+      ),  url('../images/project2.jpg');
+
+    background-size:cover; 
+}
+
+.btn-custm:hover {
+  color: red;
+}
